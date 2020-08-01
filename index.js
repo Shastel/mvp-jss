@@ -1,4 +1,6 @@
-
+/**
+ * JSS port of https://github.com/andybrewer/mvp/
+ */
 
 module.exports = {
     '@global': {

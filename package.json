@@ -1,6 +1,6 @@
 {
   "name": "mvp-jss",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "JSS port of MVP.css",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/Shastel/mvp-jss/issues"
   },
-  "homepage": "https://github.com/Shastel/mvp-jss#readme"
+  "homepage": "https://github.com/Shastel/mvp-jss#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  },
+  "peerDependencies": {
+    "jss": "^10.3.0",
+    "jss-plugin-global": "^10.3.0"
+  }
 }
